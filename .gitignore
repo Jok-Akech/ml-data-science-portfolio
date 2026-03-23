@@ -129,6 +129,7 @@ figures/
 *.svg
 !assets/
 !profile.jpg
+!jok_mabior_portfolio_logo.svg
 
 # ===========================
 # Coverage & Testing
