@@ -1100,7 +1100,7 @@
   <nav id="navbar">
     <div class="container">
       <div class="nav-inner">
-        <a href="#hero" class="nav-logo">JAM</a>
+        <a href="#hero" class="nav-logo">JAAM</a>
         <ul class="nav-links">
           <li><a href="#about">About</a></li>
           <li><a href="#skills">Skills</a></li>
@@ -1771,7 +1771,8 @@
       const subject = document.getElementById('fsubject').value || 'Portfolio Contact';
       const message = document.getElementById('fmessage').value;
 
-      const mailto = `mailto:jmabior@andrew.cmu.edu?subject=${encodeURIComponent(subject + ' — from ' + name)}&body=${encodeURIComponent('From: ' + name + '\nEmail: ' + email + '\n\n' + message)}`;
+      const body = `Hi Jok,\n\nYou have a new message from your portfolio website.\n\n---\nName:    ${name}\nEmail:   ${email}\n---\n\n${message}\n\n---\nReply directly to this person at: ${email}`;
+      const mailto = `mailto:jmabior@andrew.cmu.edu,jokakech@gmail.com?subject=${encodeURIComponent(subject + ' — from ' + name)}&body=${encodeURIComponent(body)}`;
       window.location.href = mailto;
 
       btn.textContent = '✓ Opening mail client…';
