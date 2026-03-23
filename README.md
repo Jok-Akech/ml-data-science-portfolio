@@ -114,7 +114,7 @@ Kigali, Rwanda
 
 - GitHub: [@jokakech](https://github.com/jokakech)
 - LinkedIn: [linkedin.com/in/jokakech](https://linkedin.com/in/jokakech)
-- Email: jatem@andrew.cmu.edu
+- Email: [jmabior@andrew.cmu.edu](mailto:jmabior@andrew.cmu.edu) | [jokakech@gmail.com](mailto:jokakech@gmail.com)
 
 ---
 
