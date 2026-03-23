@@ -112,7 +112,7 @@ ml-data-science-portfolio/
 Carnegie Mellon University Africa
 Kigali, Rwanda
 
-- GitHub: [@jokakech](https://github.com/jokakech)
+- GitHub: [@Jok-Akech](https://github.com/Jok-Akech)
 - LinkedIn: [linkedin.com/in/jok-mabior-542346206](https://www.linkedin.com/in/jok-mabior-542346206)
 - Email: [jmabior@andrew.cmu.edu](mailto:jmabior@andrew.cmu.edu) | [jokakech@gmail.com](mailto:jokakech@gmail.com)
 
