@@ -1,0 +1,145 @@
+# ===========================
+# Python
+# ===========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pyw
+
+# Distribution / packaging
+*.egg-info/
+*.egg
+dist/
+build/
+wheels/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.manifest
+*.spec
+
+# ===========================
+# Jupyter Notebooks
+# ===========================
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+profile_default/
+ipython_config.py
+
+# ===========================
+# Virtual Environments
+# ===========================
+.env
+.venv
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.conda/
+
+# ===========================
+# ML Model Artifacts
+# ===========================
+*.h5
+*.pkl
+*.pickle
+*.model
+*.weights
+*.pb
+*.onnx
+*.pt
+*.pth
+models/
+
+# ===========================
+# Data Files
+# ===========================
+data/raw/
+*.csv
+*.tsv
+*.parquet
+*.feather
+*.hdf
+*.hdf5
+*.json.gz
+
+# ===========================
+# Logs & Temporary Files
+# ===========================
+*.log
+*.tmp
+*.temp
+logs/
+runs/
+wandb/
+mlruns/
+
+# ===========================
+# OS Files
+# ===========================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# ===========================
+# Claude Code (AI assistant tooling)
+# ===========================
+.claude/
+
+# ===========================
+# IDE / Editor
+# ===========================
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.spyderproject.cfg
+.spyproject/
+.ropeproject/
+
+# ===========================
+# Secrets & Credentials
+# ===========================
+.env
+*.env
+secrets.yaml
+secrets.json
+credentials.json
+service_account.json
+*_credentials.*
+
+# ===========================
+# Generated Figures
+# ===========================
+figures/
+*.png
+*.jpg
+*.jpeg
+*.svg
+!assets/
+
+# ===========================
+# Coverage & Testing
+# ===========================
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.hypothesis/
+.pytest_cache/
